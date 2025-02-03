@@ -1,0 +1,8 @@
+In our programming class, we focused on understanding the binary 
+number system and how to convert numbers between different systems. For example, 
+I chose the number 124, which in binary is 1111100, and the number -24, which in binary is 11100100 in two's complement form.
+We also explored hexadecimal, decimal, and binary representations, including how to handle large numbers in these systems.
+Additionally, we learned about number conversions and how to work with different bases.
+
+During this time, my Ubuntu system unexpectedly stopped working, and I couldn’t pinpoint the cause. 
+As a result, I decided to save and share my work on GitHub instead of using Git locally.
