@@ -1,0 +1,4 @@
+In class, we covered several key topics. We learned about data representation,
+focusing on ontologies and how they structure information. We also explored
+different types of algorithms, understanding their various uses and functions.
+Additionally, we started writing code and implemented an algorithm to reverse anumber, practicing how to translate logic into code. 
