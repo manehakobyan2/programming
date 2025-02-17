@@ -1,0 +1,8 @@
+During the class, we learned about data representation and how different types
+ of data are stored and processed in computers. We covered the concepts of
+ signed and unsigned numbers, understanding how they are represented in binary
+ format. The class also introduced binary arithmetic, including addition,
+ subtraction, and multiplication, which are essential for performing operations on binary numbers.
+ We explored how signed numbers can represent both positive and negative values using techniques like two's complement. Overall, the session provided a solid
+ foundation in how computers manipulate data at the binary level.
+
