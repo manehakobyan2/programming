@@ -1,0 +1,4 @@
+On February 11, we introduced problem-solving in computer science, focusing on 
+the definition and key properties of algorithms, such as being well-ordered and unambiguous. We explored why studying algorithms is important and compared 
+different approaches through examples. Additionally, we discussed algorithm design principles, including inputs, outputs, conditions, and termination 
+considerations.

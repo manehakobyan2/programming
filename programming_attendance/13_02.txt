@@ -1,0 +1,3 @@
+On February 13, we moved on to pointers and arrays, discussing how they work in memory and their role in efficient data management. We covered pointer 
+arithmetic, array indexing, and how pointers can be used to manipulate arrays. 
+Additionally, we had a quiz to assess our understanding of the topics covered in previous classes.
