@@ -1,0 +1,2 @@
+In class today, we covered file handling in C programming. We learned how to open files using functions like fopen(), specifying the mode (e.g., read, write, append). We discussed how to read from files using fscanf() and fgets(), as well as writing to files with fprintf() and fputs(). Additionally, we explored how to close files properly using the fclose() function to ensure data is saved and resources are freed. The importance of error handling while working with files was also emphasized.
+
