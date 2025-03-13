@@ -1,0 +1,4 @@
+In class, we learned about bitwise operations, which manipulate individual bits. The bitwise AND (&)returns 1 only if both bits are 1, while the bitwise OR (|) returns 1 if at least one bit is 1.
+After the quiz, we discussed pointers, which store memory addresses of variables and use the * operator. Pointers can also access array elements.
+
+We also covered static and dynamic arrays—static arrays have a fixed size set at compile time, while dynamic arrays allow flexible memory allocation at runtime.

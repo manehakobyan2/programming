@@ -1,0 +1,3 @@
+During this class, we discussed the project requirements, including a documentation package, PRD, functional and development specifications, a video, and a GitHub link.
+
+We also reviewed code using sizeof and strlen. The sizeof operator determines the size (in bytes) of variables, data types, or constants at compile time, while the strlen function returns the length of a string.
