@@ -1,0 +1,1 @@
+On the last day, we went through a code with bitwise operations and discussed the final exam. We reviewed key topics.
