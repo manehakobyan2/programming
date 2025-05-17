@@ -1,0 +1,1 @@
+We reviewed the merge sort algorithm and implemented it using lists. Merge sort is a comparison-based sorting method that works by dividing the input array into two halves, sorting each half, and then merging them back together.
