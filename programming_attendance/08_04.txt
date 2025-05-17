@@ -1,0 +1,1 @@
+During this class, we examined a program using strlen + 1 to handle the end of a string line. We learned about concatenating strings, memory allocation based on memory type, and how strcpy() copies a source string, including the null character, to the destination.
