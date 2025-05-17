@@ -1,0 +1,1 @@
+We talked about structures and explained that they group different types of data together under one name. Structures help organize related information in a single unit.
