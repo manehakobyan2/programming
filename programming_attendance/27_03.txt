@@ -1,0 +1,1 @@
+During this class, we explored a traffic light code based on a finite state machine (FSM). 
