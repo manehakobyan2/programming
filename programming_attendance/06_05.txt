@@ -1,0 +1,1 @@
+We looked at sorting algorithms like bubble sort, merge sort, and selection sort. Bubble sort is simple but slow, merge sort is faster and efficient for large data, and selection sort is easy to implement but less efficient. For imaging, merge sort is usually preferred due to its speed and stability.
