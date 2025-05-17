@@ -1,0 +1,1 @@
+We learned about lists and their role as a data structure. Lists can grow or shrink dynamically, while arrays have a fixed size. Also, lists often allow easier insertion and deletion of elements compared to arrays.
